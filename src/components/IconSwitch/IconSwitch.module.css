@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/icon?family=Material+Icons');
+
+.btn {
+  background-color: transparent;
+  border: 0;
+  outline: none;
+  cursor: pointer;
+  margin-left: auto;
+}
